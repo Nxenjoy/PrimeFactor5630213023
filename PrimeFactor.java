@@ -1,4 +1,5 @@
 package primefactor5630213023;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
